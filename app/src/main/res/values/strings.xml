@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DialogHomework</string>
+    <string name="threeDialog">三种不同的对话框</string>
+    <string name="timePickerDialog">时间选择对话框</string>
+    <string name="singleChoiceDialog">单选列表对话框</string>
+    <string name="multiChoiceDialog">多选列表对话框</string>
+</resources>
